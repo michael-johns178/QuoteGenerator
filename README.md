@@ -1,2 +1,2 @@
 # QuoteGenerator
-A random quote generator thats uses an asynchronous fetch request to a REST API.
+A random quote generator that uses an asynchronous fetch request to a REST API.
